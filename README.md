@@ -1,4 +1,4 @@
-# meu-primeiro-reposit-rio
+# meu-primeiro-repositorio-github
 
 [**Linkedin**](https://linkedin.com/in/miller0803)
 
