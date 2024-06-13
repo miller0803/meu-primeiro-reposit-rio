@@ -1,6 +1,6 @@
 # meu-primeiro-repositorio-github
 
-[**Linkedin**](https://linkedin.com/in/miller0803)
+[**Linkedin**](https://linkedin.com/in/LuisMiller)
 
 **Linguagens Frontend**
 
